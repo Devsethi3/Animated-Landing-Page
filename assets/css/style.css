@@ -201,6 +201,7 @@ img{
     display: grid;
 }
 .home-img-eth {
+    z-index: 5;
     width: 100px;
     justify-self: center;
 }
